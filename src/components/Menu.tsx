@@ -1,6 +1,6 @@
 // src/components/Menu.tsx
 import React from 'react';
-import { menuData } from '../data/ menuData';
+import { menuData } from '../data/menuData';
 import { MenuItem as MenuItemType } from '../types/index';
 import Category from './Category';
 import styled from 'styled-components';
